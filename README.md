@@ -6,9 +6,10 @@
 
 ✔️ How to reach me ...https://www.linkedin.com/in/gaurav-bisht-1082b1222/
 
- <div dir="auto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravbisht1&show_icons=true&theme=radical" style="max-width: 100%;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravbisht1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true?username=gauravbisht1&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;hide=issues" style="max-width: 100%;">
+ <div dir="auto" >
+  <img height="400em" width="400em"
+align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravbisht1&show_icons=true&theme=radical" style="max-width: 100%;">
+  <img  height="400em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=gauravbisht1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true?username=gauravbisht1&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;hide=issues" style="max-width: 100%;">
 </a></div>
  
 
