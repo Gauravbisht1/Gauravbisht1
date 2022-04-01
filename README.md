@@ -1,10 +1,8 @@
-👋 Hi, I’m @Gauravbisht1
+# 👋 Hi, I’m @Gauravbisht1
 
 ✨ Interested in ... Backend Tech-Development and Programming 
 
-💡 Currently learning ...ML & Web Development
-
-✔️ How to reach me ...https://www.linkedin.com/in/gaurav-bisht-1082b1222/
+ 💡 Currently learning ...ML & Web Development
 
  <div dir="auto" >
  <img  height="400em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=gauravbisht1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true?username=gauravbisht1&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;hide=issues" style="max-width: 100%;">
